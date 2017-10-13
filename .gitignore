@@ -17,3 +17,296 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>RSS News</title>
+<link>http://www.palais.mc</link>
+<atom:link href="http://www.palais.mc/rss/flux_rss_fr.rss" rel="self" type="application/rss+xml"/>
+<description>RSS</description>
+<language>fr</language>
+<copyright>Palais Princier de Monaco</copyright>
+<managingEditor>info@palais.mc (Palais Princier de Monaco)</managingEditor>
+<category>News</category>
+<generator>PHP/MySQL</generator>
+<docs>http://www.rssboard.org</docs>
+<item>
+<title>S.A.S. la Princesse Stéphanie en Roumanie</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-la-princesse-stephanie/divers/2017/octobre/s-a-s-la-princesse-stephanie-en-roumanie-3402.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-la-princesse-stephanie/divers/2017/octobre/s-a-s-la-princesse-stephanie-en-roumanie-3402.html
+</guid>
+<pubDate>Fri, 06 Oct 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>Visite de S.A.S. le Prince en Sicile</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/octobre/visite-de-s-a-s-le-prince-en-sicile-3401.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/octobre/visite-de-s-a-s-le-prince-en-sicile-3401.html
+</guid>
+<pubDate>Thu, 12 Oct 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+Visite de S.A.R. La Princesse de Hanovre en République Démocratique du Congo
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-r-la-princesse-de-hanovre/divers/2017/octobre/visite-de-s-a-r-la-princesse-de-hanovre-en-republique-democratique-du-congo-3400.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-r-la-princesse-de-hanovre/divers/2017/octobre/visite-de-s-a-r-la-princesse-de-hanovre-en-republique-democratique-du-congo-3400.html
+</guid>
+<pubDate>Tue, 03 Oct 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>Premier Gala de Monte-Carlo pour l’Océan</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/septembre/premier-gala-de-monte-carlo-pour-l-ocean-3399.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/septembre/premier-gala-de-monte-carlo-pour-l-ocean-3399.html
+</guid>
+<pubDate>Fri, 29 Sep 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>S.A.S. le Prince Albert II à l’ONU</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/septembre/s-a-s-le-prince-albert-ii-a-l-onu-3398.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/septembre/s-a-s-le-prince-albert-ii-a-l-onu-3398.html
+</guid>
+<pubDate>Tue, 19 Sep 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>S.A.S. le Prince Albert II à Lisbonne et Madère</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/article/2017/septembre/s-a-s-le-prince-albert-ii-a-lisbonne-et-madere-3397.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/article/2017/septembre/s-a-s-le-prince-albert-ii-a-lisbonne-et-madere-3397.html
+</guid>
+<pubDate>Fri, 08 Sep 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>Pique-nique des Monégasques</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/septembre/pique-nique-des-monegasques-3396.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/septembre/pique-nique-des-monegasques-3396.html
+</guid>
+<pubDate>Sat, 02 Sep 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>69ème Gala de la Croix-Rouge monégasque</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/juillet/69eme-gala-de-la-croix-rouge-monegasque-3395.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/juillet/69eme-gala-de-la-croix-rouge-monegasque-3395.html
+</guid>
+<pubDate>Mon, 31 Jul 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+Départ du Yersin de Monaco pour trois années d'exploration scientifique autour du globe
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/juillet/depart-du-yersin-de-monaco-pour-trois-annees-d-exploration-scientifique-autour-du-globe-3394.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/juillet/depart-du-yersin-de-monaco-pour-trois-annees-d-exploration-scientifique-autour-du-globe-3394.html
+</guid>
+<pubDate>Fri, 28 Jul 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+Hommage aux résistants René Borghini et Esther Poggio
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/article/2017/juillet/hommage-aux-resistants-rene-borghini-et-esther-poggio-3393.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/article/2017/juillet/hommage-aux-resistants-rene-borghini-et-esther-poggio-3393.html
+</guid>
+<pubDate>Mon, 10 Jul 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+Déplacement de S.A.S. le Prince Albert II en Nouvelle Aquitaine
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/article/2017/juillet/deplacement-de-s-a-s-le-prince-albert-ii-en-nouvelle-aquitaine-3392.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/article/2017/juillet/deplacement-de-s-a-s-le-prince-albert-ii-en-nouvelle-aquitaine-3392.html
+</guid>
+<pubDate>Thu, 06 Jul 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+Déplacement au Kazakhstan pour l'Exposition internationale 2017
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/juin/deplacement-au-kazakhstan-pour-l-exposition-internationale-2017-3391.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/juin/deplacement-au-kazakhstan-pour-l-exposition-internationale-2017-3391.html
+</guid>
+<pubDate>Tue, 27 Jun 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>S.A.S. le Prince Albert II à Drogheda (Irlande)</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/juin/s-a-s-le-prince-albert-ii-a-drogheda-irlande-3390.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/evenement/2017/juin/s-a-s-le-prince-albert-ii-a-drogheda-irlande-3390.html
+</guid>
+<pubDate>Sat, 24 Jun 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>Festivités de la Saint Jean 2017</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-la-princesse-charlene/divers/2017/juin/festivites-de-la-saint-jean-2017-3389.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-la-princesse-charlene/divers/2017/juin/festivites-de-la-saint-jean-2017-3389.html
+</guid>
+<pubDate>Mon, 26 Jun 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+Déclaration de S.A.S. le Prince Souverain suite à la décision des Etats-Unis d’Amérique de se retirer de l’Accord de Paris
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/juin/declaration-de-s-a-s-le-prince-souverain-suite-a-la-decision-des-etats-unis-d-amerique-de-se-retirer-de-l-accord-de-paris-3388.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/juin/declaration-de-s-a-s-le-prince-souverain-suite-a-la-decision-des-etats-unis-d-amerique-de-se-retirer-de-l-accord-de-paris-3388.html
+</guid>
+<pubDate>Fri, 02 Jun 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>75ème Grand Prix de Monaco</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/mai/75eme-grand-prix-de-monaco-3387.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/divers/2017/mai/75eme-grand-prix-de-monaco-3387.html
+</guid>
+<pubDate>Wed, 31 May 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+S.A.S. la Princesse Charlène fêtait les mamans dimanche 28 mai
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-la-princesse-charlene/divers/2017/mai/s-a-s-la-princesse-charlene-fetait-les-mamans-dimanche-28-mai-3386.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-la-princesse-charlene/divers/2017/mai/s-a-s-la-princesse-charlene-fetait-les-mamans-dimanche-28-mai-3386.html
+</guid>
+<pubDate>Wed, 31 May 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>Voeux de S.A.S. le Prince pour l'année 2017</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/discours/2017/janvier/voeux-de-s-a-s-le-prince-pour-l-annee-2017-3385.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/discours/2017/janvier/voeux-de-s-a-s-le-prince-pour-l-annee-2017-3385.html
+</guid>
+<pubDate>Mon, 02 Jan 2017 00:00:00 +0100</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+Visite Officielle de S.A.S. le Prince Albert II en Moldavie - 4 et 5 mai 2017
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/voyage-officiel/2017/mai/visite-officielle-de-s-a-s-le-prince-albert-ii-en-moldavie-4-et-5-mai-2017-3384.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/voyage-officiel/2017/mai/visite-officielle-de-s-a-s-le-prince-albert-ii-en-moldavie-4-et-5-mai-2017-3384.html
+</guid>
+<pubDate>Tue, 09 May 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+<item>
+<title>
+Visite Officielle de S.A.S. le Prince Albert II en Slovaquie - 2 et 3 mai 2017
+</title>
+<link>
+http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/voyage-officiel/2017/mai/visite-officielle-de-s-a-s-le-prince-albert-ii-en-slovaquie-2-et-3-mai-2017-3383.html
+</link>
+<guid isPermaLink="true">
+http://http://www.palais.mc/fr/actualites/s-a-s-le-prince-albert-ii/voyage-officiel/2017/mai/visite-officielle-de-s-a-s-le-prince-albert-ii-en-slovaquie-2-et-3-mai-2017-3383.html
+</guid>
+<pubDate>Tue, 09 May 2017 00:00:00 +0200</pubDate>
+<description>
+<![CDATA[ ]]>
+</description>
+</item>
+</channel>
+</rss>
